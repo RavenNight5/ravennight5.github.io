@@ -1,0 +1,10 @@
+title: Homepage
+
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+show_downloads: false
+#google_analytics: [Your Google Analytics tracking ID]
+
+description: Description.
